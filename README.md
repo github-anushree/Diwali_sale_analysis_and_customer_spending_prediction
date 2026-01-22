@@ -100,7 +100,7 @@ These insights helped guide feature selection for the machine learning model.
 
 ## 👩‍💻 Author
 **Anushree Kashyap**  
-📧 Email: anushreekashyap03@gmail.com  
+
 
 ---
 
